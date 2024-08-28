@@ -13,4 +13,4 @@ If you're interested in learning more about me, feel free to check out my public
 - [davelongdev](https://davelongdev.com)
 - [davelongwebstudio](https://davelongwebstudio.com)
 - [davelongmusic](https://davelongmusic.com)
-- [linkedin](https://linkedin.com/in/davelong111)
+- [my linkedin profile](https://linkedin.com/in/davelong111)

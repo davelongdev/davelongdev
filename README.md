@@ -18,7 +18,7 @@ I'm open to work, including part-time, full-time, remote, hybrid, and in-person 
 
 I'm located in the Hudson Valley in NY.  I have a BA in Philosophy from Boston University and a JD from St. John's University Law School.
 
-## Learn More
+## Additional Resources
 
 If you're interested in learning more about me, feel free to check out my public repos or visit one of these sites:
 

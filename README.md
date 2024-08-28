@@ -2,7 +2,7 @@
 
 ## Overview
 
-I'm a software developer specializing in front-end web development.  I've been studying and working with software development for almost 2 years now.  I've been focusing on the front-end, so I'm most confortabe working with JavaScript, HTML, and CSS. I'm also familiar with python, go, php, and lua.  I've worked on projects using Hugo, Astro, and WordPress.  
+I'm a software developer specializing in front-end web development.  I've been studying and working with software development for almost two years now.  I've been focusing on the front-end, so I'm most confortabe working with JavaScript, HTML, and CSS. I'm also familiar with python, go, php, and lua.  I've worked on projects using Hugo, Astro, and WordPress.  
 
 ## Learning Path
 

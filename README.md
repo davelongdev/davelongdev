@@ -2,7 +2,11 @@
 
 ## Overview
 
-I'm a software developer specializing in front-end web development.  I've been studying and working with software development for almost 2 years now.  I've been focusing on the front-end, so I'm most confortabe working with JavaScript, HTML, and CSS. I'm also familiar with python, go, php, and lua.  I've worked on projects using Hugo, Astro, and WordPress.  I'm learning 
+I'm a software developer specializing in front-end web development.  I've been studying and working with software development for almost 2 years now.  I've been focusing on the front-end, so I'm most confortabe working with JavaScript, HTML, and CSS. I'm also familiar with python, go, php, and lua.  I've worked on projects using Hugo, Astro, and WordPress.  
+
+## Learning Path
+
+I'm interested in learning more about back-end web development, data science and machine learning, and programming and computer science in general.  Right now, I'm continuing to develop my front-end skills and knowledge through the materials on [leanwebclub.com](https://leanwebclub.com) and front-end coaching with Chris Ferdinandi, and I'm leaning back-end development by working through the courses on [boot.dev](https://boot.dev).
 
 I'm open to work, including part-time, full-time, remote, hybrid, and in-person postions.  I'm currently working as a freelancer and running a business teaching piano lessons.
 

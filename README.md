@@ -11,6 +11,6 @@ I'm located in the Hudson Valley in NY.  I have a BA in Philosophy from Boston U
 If you're interested in learning more about me, feel free to check out my public repos or visit one of these sites:
 
 - [davelongdev](https://davelongdev.com)
-- [davelongwebstudio](https://davelongwebstudio)
+- [davelongwebstudio](https://davelongwebstudio.com)
 - [davelongmusic](https://davelongmusic.com)
-- [linkedin](https://linkedin/davelong111)
+- [linkedin](https://linkedin.com/davelong111)

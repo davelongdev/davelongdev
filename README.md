@@ -6,7 +6,7 @@ I'm a software developer specializing in front-end web development.  I've been s
 
 ## Learning Path
 
-Right now, I'm continuing to develop my front-end skills and knowledge through the materials on [leanwebclub.com](https://leanwebclub.com) and front-end coaching with Chris Ferdinandi, and I'm leaning back-end development by working through the courses on [boot.dev](https://boot.dev).
+I'm continuing to develop my front-end skills and knowledge through the materials on [leanwebclub.com](https://leanwebclub.com) and front-end coaching with Chris Ferdinandi, and I'm leaning back-end development by working through the courses on [boot.dev](https://boot.dev).
 
 I'm interested in learning more about web development, data science and machine learning, and programming and computer science in general.
 

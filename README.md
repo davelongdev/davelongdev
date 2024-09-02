@@ -20,8 +20,6 @@ I'm located in the Hudson Valley in NY.  I have a BA in Philosophy from Boston U
 
 ## Main Projects
 
-These are the main projects I've worked on recently.
-
 - [Dave Long Web Studio](https://davelongwebstudio.com) - The website for my website services business.  I am offering web development, web design, and writing services.
 
 - [Dave Long Dev](https://davelongdev.com) - My software developer & portfolio website.  I built this site using WordPress and the Gutenberg block editor.
@@ -33,7 +31,7 @@ These are the main projects I've worked on recently.
 
 ## Additional Resources
 
-If you're interested in learning more about me, feel free to check out any of my public GitHub repositoriess or visit one of these sites:
+If you're interested in learning more about me, feel free to check out any of my public GitHub repositoriess or visit one of these sites.
 
 - [davelongdev](https://davelongdev.com)
 - [davelongwebstudio](https://davelongwebstudio.com)

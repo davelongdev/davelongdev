@@ -12,16 +12,7 @@ I'm a software developer specializing in front-end web development.  I've been s
 
 - [Cloudflare Worker for Contact Form](https://github.com/davelongdev/cloudflare-worker-contact-form) - A Cloudflare worker to process form submissions on the contact page of davelongwebstudio.com.
 
-
 - [Node.js Link Crawler](https://github.com/davelongdev/link-report-crawler) - A command-line tool built with Node.js that crawls a website to find and count the site's links and create a report.
-
-## Education & Background
-
-I'm continuing to develop my front-end skills and knowledge through the materials on [leanwebclub.com](https://leanwebclub.com) and front-end coaching with Chris Ferdinandi, and I'm learning back-end development by working through the courses on [boot.dev](https://boot.dev).
-
-I'm interested in learning more about web development, data science and machine learning, and programming and computer science in general.
-
-I live in the Hudson Valley in NY.  I have a BA in Philosophy from Boston University and a JD from St. John's University Law School.
 
 ## Current Status
 
@@ -30,6 +21,18 @@ I'm currently running a business teaching piano lessons online and in person and
 ## Open to Work
 
 I'm open to work, including part-time, full-time, remote, hybrid, and in-person postions.
+
+## Education & Background
+
+I'm continuing to develop my front-end skills and knowledge through the materials on [leanwebclub.com](https://leanwebclub.com) and front-end coaching with Chris Ferdinandi, and I'm learning back-end development by working through the courses on [boot.dev](https://boot.dev).
+
+I'm interested in learning more about web development, data science and machine learning, and programming and computer science in general.
+
+I have a BA in Philosophy from Boston University and a JD from St. John's University Law School.
+
+## Location
+
+I live in the Hudson Vally in NY.
 
 ## Additional Resources
 

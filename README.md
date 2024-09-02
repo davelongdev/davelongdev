@@ -14,7 +14,7 @@ I'm a software developer specializing in front-end web development.  I've been s
 
 - [Node.js Link Crawler](https://github.com/davelongdev/link-report-crawler) - A command-line tool built with Node.js that crawls a website to find and count the site's links and create a report.
 
-## Current Status
+## Current Work Status
 
 I'm currently running a business teaching piano lessons online and in person and offereing freelance services in web development and website building.
 

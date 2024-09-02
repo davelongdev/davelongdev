@@ -28,7 +28,7 @@ I'm continuing to develop my front-end skills and knowledge through the material
 
 I'm interested in learning more about web development, data science and machine learning, and programming and computer science in general.
 
-I have a BA in Philosophy from Boston University and a JD from St. John's University Law School.
+I have a BA in Philosophy from Boston University and a JD from St. John's Law School.
 
 ## Location
 

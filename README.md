@@ -38,4 +38,4 @@ If you're interested in learning more about me, feel free to check out any of my
 - [davelongdev](https://davelongdev.com)
 - [davelongwebstudio](https://davelongwebstudio.com)
 - [davelongmusic](https://davelongmusic.com)
-- [my linkedin profile](https://linkedin.com/in/davelong111)
+- [linkedin profile](https://linkedin.com/in/davelong111)

@@ -2,30 +2,7 @@
 
 ## Overview
 
-I'm a software developer specializing in front-end web development.  I've been studying and working with software development for almost two years now.  I've been focusing on the front-end, so I'm most confortabe working with JavaScript, HTML, and CSS. I'm also familiar with python, go, php, and lua.  I've worked on projects using Hugo, Astro, and WordPress.  
-
-## Education
-
-I'm continuing to develop my front-end skills and knowledge through the materials on [leanwebclub.com](https://leanwebclub.com) and front-end coaching with Chris Ferdinandi, and I'm learning back-end development by working through the courses on [boot.dev](https://boot.dev).
-
-I'm interested in learning more about web development, data science and machine learning, and programming and computer science in general.
-
-I have a BA in Philosophy from Boston University and a JD from St. John's University Law School.
-
-## Current Status
-
-I'm currently running a business teaching piano lessons online and in person and offereing freelance services in web development and website building.
-
-## Open to Work
-
-I'm open to work, including part-time, full-time, remote, hybrid, and in-person postions.
-
-##  Location
-
-I'm located in the Hudson Valley in NY.  
-
-## Education
-
+I'm a software developer specializing in front-end web development.  I've been studying and working with software development for almost two years now.  I've been focusing on the front-end, so I'm most confortabe working with JavaScript, HTML, and CSS. I'm also familiar with python, go, php, and lua.  I've worked on projects using Hugo, Astro, and WordPress.
 
 ## Main Projects
 
@@ -37,6 +14,22 @@ I'm located in the Hudson Valley in NY.
 
 
 - [Node.js Link Crawler](https://github.com/davelongdev/link-report-crawler) - A command-line tool built with Node.js that crawls a website to find and count the site's links and create a report.
+
+## Education & Background
+
+I'm continuing to develop my front-end skills and knowledge through the materials on [leanwebclub.com](https://leanwebclub.com) and front-end coaching with Chris Ferdinandi, and I'm learning back-end development by working through the courses on [boot.dev](https://boot.dev).
+
+I'm interested in learning more about web development, data science and machine learning, and programming and computer science in general.
+
+I live in the Hudson Valley in NY.  I have a BA in Philosophy from Boston University and a JD from St. John's University Law School.
+
+## Current Status
+
+I'm currently running a business teaching piano lessons online and in person and offereing freelance services in web development and website building.
+
+## Open to Work
+
+I'm open to work, including part-time, full-time, remote, hybrid, and in-person postions.
 
 ## Additional Resources
 

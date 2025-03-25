@@ -20,7 +20,7 @@ I'm currently working as an instructor and teaching assistant at Openhub Project
 
 ## Open to Work
 
-I'm open to discussing frelance and employment opportunities, including part-time, full-time, remote, hybrid, and in-person postions.
+I'm open to discussing freelance and employment opportunities, including part-time, full-time, remote, hybrid, and in-person postions.
 
 ## Education & Background
 

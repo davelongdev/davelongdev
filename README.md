@@ -24,7 +24,7 @@ I'm open to discussing freelance and employment opportunities, including part-ti
 
 ## Education & Background
 
-I'm continuing to develop my front-end skills and knowledge through the materials on [leanwebclub.com](https://leanwebclub.com) and front-end coaching with Chris Ferdinandi, and I'm learning back-end development by working through the courses on [boot.dev](https://boot.dev).
+I'm continuing to develop my front-end skills and knowledge through the materials on [leanwebclub.com](https://leanwebclub.com), and I'm learning back-end development by working through the courses on [boot.dev](https://boot.dev).  I recently obtained the Google IT support certificate and am planning to take the A+ exam soon.  I'm also studyig low-level prgramming through the materials on [Low Level academy](https://lowlevel.academy), and pursuing additional certifications through coursera in Cyber security, Cloud, and AI.
 
 I'm interested in learning more about web development, data science and machine learning, and programming and computer science in general.
 

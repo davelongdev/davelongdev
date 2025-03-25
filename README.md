@@ -2,7 +2,7 @@
 
 ## Overview
 
-I'm a software developer specializing in front-end web development.  I've been studying and working with software development for almost two years now.  I've been focusing on the front-end, so I'm most confortabe working with JavaScript, HTML, and CSS. I'm also familiar with python, go, php, and lua.  I've worked on projects using Hugo, Astro, and WordPress.
+I'm a software developer with interests in IT, security, AI and data, systems, and computer science.  I've been studying and working with software development and tech since 2022.  I've studied front-end and back-end development, low-level programming with a focus on c and assembly, and IT and computer systems. I'm most comfortabe working with Python, Javascript, Go, C, and HTML and CSS. I'm also familiar with php, C++, and lua.  I've worked on web development projects using Hugo, Astro, and WordPress.
 
 ## Main Projects
 
@@ -16,11 +16,11 @@ I'm a software developer specializing in front-end web development.  I've been s
 
 ## Current Work Status
 
-I'm currently running a business teaching piano lessons online and in person and offereing freelance services in web development and website building.
+I'm currently working as an instructor and teaching assistant at Openhub Project where I'm assisting with a tech foundations class, offereing freelance services in web development and website building, and running an independant piano teaching studio.
 
 ## Open to Work
 
-I'm open to work, including part-time, full-time, remote, hybrid, and in-person postions.
+I'm open to discussing frelance and emplloyment opportunities, including part-time, full-time, remote, hybrid, and in-person postions.
 
 ## Education & Background
 

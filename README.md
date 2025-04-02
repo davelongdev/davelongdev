@@ -32,9 +32,9 @@ I'm open to discussing freelance and employment opportunities, including part-ti
 
 ### Programming
 
-- Front-End:  I'm continuing to develop my front-end skills and knowledge through the materials on [gomakethings.com](https://members.gomakethings.com/)
+- *Front-End:*  I'm continuing to develop my front-end skills and knowledge through the materials on [gomakethings.com](https://members.gomakethings.com/)
 - Back-end:  I'm learning back-end development by working through the courses on [boot.dev](https://boot.dev).
-- I'm also studyig low-level prgramming through the materials on [Low Level Academy](https://lowlevel.academy).
+- Low-Level:  I'm also studyig low-level prgramming through the materials on [Low Level Academy](https://lowlevel.academy).
 
 ### IT, Security. Cloud, AI
 

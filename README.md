@@ -18,7 +18,7 @@ I've been seriously studying and working with software development and tech sinc
 
 ## Current Work Status
 
-I'm currently working as an instructor and teaching assistant at Openhub Project where I'm assisting with a tech foundations class, offereing freelance services in web development and website building, and running an independant piano teaching studio.
+I'm currently working as an instructor and teaching assistant at [Openhub Project](https://openhubproject.com/) where I'm assisting with the [Tech Academy](https://openhubproject.com/tech-academy) classes, offereing freelance services in web development and website building, and running an independant piano teaching studio.
 
 ## Open to Work
 

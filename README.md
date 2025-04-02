@@ -36,7 +36,7 @@ I'm open to discussing freelance and employment opportunities, including part-ti
 - **Back-end:**  I'm learning back-end development with a focus on Python and Go by working through the courses on [boot.dev](https://boot.dev).  Boot.dev also has many courses on related topics like data structures and algorithms, cryptography, CI/CD, and kubernetes, which I'm planning to work asap.
 - **Low-Level:**  I'm also studyig low-level prgramming with a focus on C and assembly through the materials on [lowlevel.academy](https://lowlevel.academy).
 
-### IT, Security, Cloud, Data, and AI
+### IT, Security, Cloud, Data and AI
 
 - I recently obtained the [Google IT Support] (https://www.coursera.org/account/accomplishments/professional-cert/O4C4T8G4SXWG) certificate and am planning to take the CompTIA A+ exam soon.
 

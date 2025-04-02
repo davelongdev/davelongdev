@@ -22,7 +22,7 @@ I'm currently self-employed doing a few different types of freelance work:
 
 - I'm working as an instructor and teaching assistant at [Openhub Project](https://openhubproject.com/) where I'm assisting with the [Tech Academy](https://openhubproject.com/tech-academy) classes.
 - I'm offereing freelance services in programming, web development, and website building.
-- I'm also and running an independant piano teaching studio.
+- I'm also and running an independent piano teaching studio.
 
 ## Open to Work
 

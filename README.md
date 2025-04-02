@@ -30,9 +30,21 @@ I'm open to discussing freelance and employment opportunities, including part-ti
 
 ## Education & Background
 
-I'm continuing to develop my front-end skills and knowledge through the materials on [gomakethings.com](https://members.gomakethings.com/), and I'm learning back-end development by working through the courses on [boot.dev](https://boot.dev).  I recently obtained the [Google IT Support](https://www.coursera.org/account/accomplishments/professional-cert/O4C4T8G4SXWG) certificate and am planning to take the CompTIA A+ exam soon.  I'm also studyig low-level prgramming through the materials on [Low Level Academy](https://lowlevel.academy), and pursuing additional certifications through Coursera in Cyber Security, Cloud Technologies, and AI.
+### Programming
+
+- Front-End:  I'm continuing to develop my front-end skills and knowledge through the materials on [gomakethings.com](https://members.gomakethings.com/)
+- Back-end:  I'm learning back-end development by working through the courses on [boot.dev](https://boot.dev).
+- I'm also studyig low-level prgramming through the materials on [Low Level Academy](https://lowlevel.academy).
+
+### IT, Security. Cloud, AI
+
+- I recently obtained the [Google IT Support] (https://www.coursera.org/account/accomplishments/professional-cert/O4C4T8G4SXWG) certificate and am planning to take the CompTIA A+ exam soon.
+
+- I'm also pursuing additional certifications through Coursera in Cyber Security, Cloud Technologies, and AI.
 
 I'm interested in learning more about web development, data science and machine learning, and programming and computer science in general.
+
+### Degrees
 
 I have a BA in Philosophy from Boston University and a JD from St. John's University School of Law.
 

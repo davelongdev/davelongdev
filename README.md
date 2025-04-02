@@ -2,7 +2,9 @@
 
 ## Overview
 
-I'm a software developer with interests in IT, security, AI and data, systems, and computer science.  I've been studying and working with software development and tech since 2022.  I've studied front-end and back-end development, low-level programming with a focus on C and assembly, and IT and computer systems. I'm most comfortabe working with Python, JavaScript, Go, C, and HTML and CSS. I'm also familiar with php, C++, and lua.  I've worked on web development projects using various platforms and frameworks such as WordPress, Squarespace, Cloudflare, Hugo, and Astro.
+I'm a software developer with interests in IT, security, AI and data, systems, and computer science.  I'm also who a musician, a piano teacher, and a licensed attorney in the state of NY.  
+
+I've been studying and working with software development and tech since 2022.  I've studied front-end and back-end development, low-level programming with a focus on C and assembly, and IT and computer systems. I'm most comfortabe working with Python, JavaScript, Go, C, and HTML and CSS. I'm also familiar with php, C++, and lua.  I've worked on web development projects using various platforms and frameworks such as WordPress, Squarespace, Cloudflare, Hugo, and Astro.
 
 ## Main Projects
 

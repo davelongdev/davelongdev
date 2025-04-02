@@ -2,7 +2,7 @@
 
 ## Overview
 
-I'm a software developer with interests in IT, security, AI and data, systems, and computer science.  I've been studying and working with software development and tech since 2022.  I've studied front-end and back-end development, low-level programming with a focus on c and assembly, and IT and computer systems. I'm most comfortabe working with Python, Javascript, Go, C, and HTML and CSS. I'm also familiar with php, C++, and lua.  I've worked on web development projects using Hugo, Astro, and WordPress.
+I'm a software developer with interests in IT, security, AI and data, systems, and computer science.  I've been studying and working with software development and tech since 2022.  I've studied front-end and back-end development, low-level programming with a focus on C and assembly, and IT and computer systems. I'm most comfortabe working with Python, Javascript, Go, C, and HTML and CSS. I'm also familiar with php, C++, and lua.  I've worked on web development projects using Hugo, Astro, and WordPress.
 
 ## Main Projects
 
